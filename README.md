@@ -70,10 +70,10 @@ Note: This project assumes no prior knowledge of biology, only understanding of 
 Final project for Engineering Optimization (ISyE 3133), completed Spring 2024.
 
 ## Code Structure
-models/: Contains the linear programming models for each problem variation.
-data/: Contains the input nucleotide strings.
-scripts/: Python scripts for data processing and model execution.
-images/: Visual representations of nucleotide pairing and pairing examples.
+models: Contains the linear programming models for each problem variation.
+data: Contains the input nucleotide strings.
+scripts: Python scripts for data processing and model execution.
+images: Visual representations of nucleotide pairing and pairing examples.
 
 ## Requirements
 Python 3.8+
