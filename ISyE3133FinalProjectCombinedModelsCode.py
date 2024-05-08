@@ -2,7 +2,7 @@
 """
 Created on Fri Apr 19 21:47:40 2024
 
-@author: sydbi
+@author: Sydney Bice
 """
 
 # Testing is at the end of the code
